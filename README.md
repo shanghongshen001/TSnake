@@ -1,4 +1,4 @@
-# android TSnake 弹出蛇
+# android TSnake 贪吃蛇
 
 游戏预览
 
